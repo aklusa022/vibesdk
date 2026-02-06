@@ -30,8 +30,6 @@ dist
 .wrangler
 .dev.vars*
 .prod.vars
-.env
-.env.*
 
 runner/downloads
 /generated/prisma
@@ -55,3 +53,4 @@ debug-tools/presentation-tester
 
 .test-data
 cli
+config.bat
